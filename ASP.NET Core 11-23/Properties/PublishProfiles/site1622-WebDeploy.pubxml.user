@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYqKHGYsQHk21XzFpyjAbuQAAAAACAAAAAAADZgAAwAAAABAAAABEHvYQJ5WQThPiB5twA44GAAAAAASAAACgAAAAEAAAAIW/01PsG0R2ynljoIYZv30gAAAAQSBrFJC4SwXT4QhVtrW2WyNeUtB/P2qPz6YCwkYN/hYUAAAAB6VY+Bwzgrq/1OpJVpAqWVMBx9M=</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="AzureExperimentalExternalMonsterAspConnection">
+      <Value>Server=db2547.public.databaseasp.net%3b Database=db2547%3b User Id=db2547%3b Password=cR+9!w5W2=Ls%3b Encrypt=False%3b MultipleActiveResultSets=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

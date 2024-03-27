@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYqKHGYsQHk21XzFpyjAbuQAAAAACAAAAAAADZgAAwAAAABAAAABUMLITCenNA8wYfYYTUd+dAAAAAASAAACgAAAAEAAAAN3NAtT3MOMZLIu/aC9ZAn+AAAAAB31effhRITpPtbUKYBsWuQFjiVCJ3qnlr2mkF2NUxfmiY4lnTfGiJ9b/wc/e8nYFY0T7hWkBOR1+UjzJ4b3FuYNrVoe1ti1LwCnxErIDyqyqQJ7ljvFG4h4ZUP6b7V5LCSZ9Dyy9XxDSBDPDisgNpn7GD4xZ6QFUFRYN2XnilpoUAAAAYvZKMMHA05I5Pl2tgPusnSKDTJI=</EncryptedPassword>
+    <History>True|2024-03-21T14:13:45.5834963Z;True|2024-03-21T15:12:44.5405136+01:00;True|2024-03-21T14:57:22.4910348+01:00;True|2024-03-21T14:00:54.8665473+01:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="SomeeDbConnection">
+      <Value>workstation id=arcticfox.mssql.somee.com%3bpacket size=4096%3buser id=arcticfox_SQLLogin_1%3bpwd=vpzjqllspd%3bdata source=arcticfox.mssql.somee.com%3bpersist security info=False%3binitial catalog=arcticfox%3bTrustServerCertificate=True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
